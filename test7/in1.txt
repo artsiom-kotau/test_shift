@@ -1,0 +1,5 @@
+Lorem ipsum dolor sit amet
+45
+Пример
+тестовое задание
+100500

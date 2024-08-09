@@ -1,0 +1,5 @@
+первая строка
+Lorem ipsum dolor sit amet
+Пример
+consectetur adipiscing
+тестовое задание
